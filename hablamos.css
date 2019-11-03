@@ -267,12 +267,12 @@ body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleB
   line-height: 70px;
   border-radius: 50%;
   opacity: 0;
-  box-shadow: 0 0 0 1.5px magenta;
+  box-shadow: 0 0 0 1.5px #e6007e;
   transition: all .2s ease-in-out;
 }
 
 .social-media-list li:hover {
-  background-color: magenta; 
+  background-color: #e6007e; 
 }
 
 .social-media-list li:hover:after {
